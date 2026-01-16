@@ -47,9 +47,7 @@ MANIFEST
 *.ipynb_checkpoints
 
 # Large files
-*.pdf
-data/
-!data/.gitkeep
+# *.pdf  # Uncomment to exclude PDF files
 
 # Cache
 .cache
