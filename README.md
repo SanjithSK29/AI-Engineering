@@ -1,4 +1,4 @@
-# AI Engineering: Retrieval Augmented Generation (RAG) Project
+# AI Engineering: 
 
 A comprehensive implementation of Retrieval Augmented Generation systems exploring PDF processing, text embedding, semantic search, and language model integration using modern AI tools.
 
